@@ -2,7 +2,7 @@
 *My reading journal for code fellows*
 
 
-![Deployment](https://imgur.com/a/zr3bt3V)
+![Deployment](https://i.imgur.com/M7Zr2rc.jpeg)
 
 
 **Growth mindset**
