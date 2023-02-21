@@ -1,7 +1,9 @@
 # reading-notes
 My reading journal for code fellows
 
-![Deployment!]
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 **Growth mindset**
 
