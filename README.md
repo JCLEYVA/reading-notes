@@ -1,7 +1,6 @@
 # reading-notes
 My reading journal for code fellows
 
-
 ![Deployment](https://ibb.co/rpyDDfR)
 
 **Growth mindset**
