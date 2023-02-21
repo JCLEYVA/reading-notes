@@ -1,4 +1,4 @@
-# reading-notes
+# Reading-Notes
 *My reading journal for code fellows*
 
 
