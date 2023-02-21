@@ -44,3 +44,5 @@ Touch command is to create new files.
 
 * pwd/ls/cd/mrdir/touch command line*
 
+you are opening up the directory and creating a new folder in terminal.
+
