@@ -1,5 +1,5 @@
 # reading-notes
-My reading journal for code fellows
+*My reading journal for code fellows*
 
 
 [![Deployment](https://imgur.com/a/zr3bt3V)](https://imgur.com/a/zr3bt3V)
