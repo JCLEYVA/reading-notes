@@ -37,6 +37,7 @@
 7. [Class 07]()
 8. [Class 08]()
 9. [Class 09]()
-10 [Class 10]()
+
+10. [Class 10]()
 11. [Class 11]()
-12. [CLass 12]()
+12. [Class 12]()
