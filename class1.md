@@ -42,5 +42,5 @@ Cmd *touch* Newfie.md
 Tell what kind of file it is. 
 Touch command is to create new files.
 
-
+* pwd/ls/cd/mrdir/touch command line*
 
