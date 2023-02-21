@@ -1,7 +1,7 @@
 # reading-notes
 My reading journal for code fellows
 
-![Deployment!](96F71F5-3CC0-4FB1-BFA9-4CA72B175070.jpg)
+![Deployment!](<blockquote class="imgur-embed-pub" lang="en" data-id="a/zr3bt3V" data-context="false" ><a href="//imgur.com/a/zr3bt3V"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 **Growth mindset**
 
