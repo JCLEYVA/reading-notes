@@ -18,5 +18,29 @@ Extentions- plugins. Adds functionality.
 4. mrdir
 5. touch
 
+pwd- Print working directory (you are here command) 
+
+ls (list) list of contents of the directory where you’re at.
+Ls projects (not specific to projects, list contents of a specific folder) 
+
+Ls -l giving your command an argument. List all of the contents of where you’re at as a list. 
+
+
+Cd .. (go back one level
+Cd … (go back two levels) 
+However many levels you want to go back its that many dots plus one.
+
+Cd and hit enter will automatically takes you back home.
+
+mkdir (space and name) make a new folder.
+Mdir 102d48 c
+
+Create a file or folder within you space
+
+Cmd *touch* Newfie.md
+
+Tell what kind of file it is. 
+Touch command is to create new files.
+
 
 
