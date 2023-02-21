@@ -1,4 +1,4 @@
-# Class 1 Notes
+# Class 2 Notes
 
 * Read 02 The Coders Computer
 
