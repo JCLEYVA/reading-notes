@@ -2,7 +2,7 @@
 My reading journal for code fellows
 
 
-![alt text](https://ibb.co/rpyDDfR)
+![Deployment](https://ibb.co/rpyDDfR)
 
 **Growth mindset**
 
