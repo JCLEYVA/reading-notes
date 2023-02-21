@@ -1,4 +1,4 @@
-#Markdown
+# Markdown
 
 *What is Markdown?*
 
@@ -31,4 +31,4 @@ Text which we want to use for the hyperlink goes in square brackets, and the lin
 
 *What are the three symbols you can use to create an unordered (bulleted) list with Markdown?*
  
-( numbers and "-") 
+( numbers, an asterick with unordered list,  and "-") 
