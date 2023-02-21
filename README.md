@@ -1,7 +1,7 @@
 # reading-notes
 My reading journal for code fellows
 
-[<img src="["](https://imgur.com/a/zr3bt3V)>]()
+[<img src="["](https://imgur.com/a/zr3bt3V)>](https://imgur.com/a/zr3bt3V)
 
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
