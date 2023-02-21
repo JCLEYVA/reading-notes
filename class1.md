@@ -10,5 +10,13 @@ Themes- change color to help reduce eye strain.
 
 Extentions- plugins. Adds functionality.
 
+* What do the following commands do?
+
+1. pwd
+2. ls
+3. cd
+4. mrdir
+5. touch
+
 
 
