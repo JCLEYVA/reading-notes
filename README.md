@@ -1,7 +1,7 @@
 # reading-notes
 My reading journal for code fellows
 
-![Deployment!](//imgur.com/a/zr3bt3V)
+![Deployment!]
 
 **Growth mindset**
 
