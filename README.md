@@ -12,7 +12,7 @@
 [Github Profile](https://github.com/JCLEYVA)
 
 
-# <h3 align="center"> Table of Contents </h3>
+#  Table of Contents 
 
 ### 102
 
