@@ -3,8 +3,8 @@ stands for cascading style sheets.
 we can select all elements, or specific elements- and apply style to them
 
 There are three ways to use CSS.
-1. external stylesheet
-2. Internal style
+1. external stylesheet- insert by adding style.css file
+2. Internal style-
 3. inline style
 
 CSS syntax 
@@ -26,7 +26,7 @@ internal css
 inline css
 
 
-External css- with an external style sheet, you can chanfe the look of an etire website by changing just one file.
+External css- with an external style sheet, you can change the look of an etire website by changing just one file.
 each HTML page must inclue a reference to the external style sheet file inside the <link> element, inside the head section.
 
 example:
@@ -61,3 +61,7 @@ may be used if one singe html page has a uniqute style
 Inline css may be used to apply  a wunique style for a single element.
 
 Tip: An inline style loses many of the advantages of a style sheet (by mixing content with presentation). Use this method sparingly.
+
+Write an example of CSS rule that makes everything in a paragraph red.
+
+p{color : red;} command.
