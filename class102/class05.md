@@ -29,39 +29,3 @@ inline css
 External css- with an external style sheet, you can change the look of an etire website by changing just one file.
 each HTML page must inclue a reference to the external style sheet file inside the <link> element, inside the head section.
 
-example:
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="mystyle.css">
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-
-An external style sheet can be written in any text editor, and must be saved with a .css extension.
-
-The external .css file should not contain any HTML tags.
-
-Here is how the "mystyle.css" file looks:
-
-Note: Do not add a space between the property value and the unit:
-Incorrect (space): margin-left: 20 px;
-Correct (nospace): margin-left: 20px;
-
-Internal css 
-internal style sheet
-
-may be used if one singe html page has a uniqute style
-
-Inline css may be used to apply  a wunique style for a single element.
-
-Tip: An inline style loses many of the advantages of a style sheet (by mixing content with presentation). Use this method sparingly.
-
-Write an example of CSS rule that makes everything in a paragraph red.
-
-p{color : red;} command.
