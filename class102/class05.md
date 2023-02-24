@@ -29,3 +29,21 @@ inline css
 External css- with an external style sheet, you can change the look of an etire website by changing just one file.
 each HTML page must inclue a reference to the external style sheet file inside the <link> element, inside the head section.
 
+<<<<<<< HEAD
+=======
+example:
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+
+>>>>>>> 155baf1dc7e2b41453c15b5806fab080d715a16d
