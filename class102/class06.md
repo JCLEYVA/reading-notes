@@ -1,4 +1,4 @@
-
+Dynamic pages with Javascript
 What are the variables in javascript?
 Anything that can vary. A variable stores data that can be changed later on. A storage location.
 
