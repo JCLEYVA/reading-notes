@@ -26,8 +26,8 @@
 ### 201
 
 1. [Class 01 Welcome to Orientation](https://jcleyva.github.io/reading-notes/class1b)
-2. [Class 02 JS Dataypes and Conditional Logic](https://jcleyva.github.io/reading-notes/class1)
-3. [Class 03](https://jcleyva.github.io/reading-notes/class03Revisionsandtheclous)
+2. [Class 02 JS Dataypes and Conditional Logic](https://jcleyva.github.io/reading-notes/class02)
+3. [Class 03]()
 4. [Class 04]()
 5. [Class 05]()
 6. [Class 06]()
