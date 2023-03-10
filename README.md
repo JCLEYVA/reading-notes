@@ -25,7 +25,7 @@
 
 ### 201
 
-1. [Class 01 Welcome to Orientation](https://jcleyva.github.io/reading-notes/class1b)
+1. [Class 01 Welcome to Orientation](/class201/Class201.md)
 2. [Class 02 JS Dataypes and Conditional Logic](/class201/Class202.md)
 3. [Class 03]()
 4. [Class 04]()
