@@ -28,10 +28,10 @@
 1. [Class 01 Welcome to Orientation](/class201/Class201.md)
 2. [Class 02 JS Dataypes and Conditional Logic](/class201/Class202.md)
 3. [Class 03 HTML lists, control flow with JS, and CSS box models](/class201/Class203.md)
-4. [Class 04]()
+4. [Class 04 HTML links, JS functions, and intro to CSS Layout](/class201/Class204.md)
 5. [Class 05]()
 6. [Class 06]()
-7. [Class 07]()
+7. [Class 07]() 
 8. [Class 08]()
 9. [Class 09]()
 
