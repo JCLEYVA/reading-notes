@@ -32,7 +32,7 @@
 5. [Class 05 Images, Color, Text](/class201/Class205.md)
 6. [Class 06 Problem Domain, Objects, and the DOM](/class201/Class06.md)
 7. [Class 07 JS Constructor Functions and HTML Tables](/class201/Class07.md) 
-8. [Class 08]()
+8. [Class 08 CSS Layout](/class201/Class08.md)
 9. [Class 09]()
 
 10. [Class 10]()
