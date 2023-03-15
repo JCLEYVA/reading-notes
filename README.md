@@ -31,7 +31,7 @@
 4. [Class 04 HTML links, JS functions, and intro to CSS Layout](/class201/Class204.md)
 5. [Class 05 Images, Color, Text](/class201/Class205.md)
 6. [Class 06 Problem Domain, Objects, and the DOM](/class201/Class06.md)
-7. [Class 07]() 
+7. [Class 07 JS Constructor Functions and HTML Tables](/class201/Class07.md) 
 8. [Class 08]()
 9. [Class 09]()
 
