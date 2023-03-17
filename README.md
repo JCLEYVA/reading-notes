@@ -33,8 +33,7 @@
 6. [Class 06 Problem Domain, Objects, and the DOM](/class201/Class06.md)
 7. [Class 07 JS Constructor Functions and HTML Tables](/class201/Class07.md) 
 8. [Class 08 CSS Layout](/class201/Class08.md)
-9. [Class 09]()
-
+9. [Class 09 Forms and JS events](/class201/Class09.md)
 10. [Class 10]()
 11. [Class 11]()
 12. [Class 12]()
