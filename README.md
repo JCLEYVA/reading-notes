@@ -34,6 +34,6 @@
 7. [Class 07 JS Constructor Functions and HTML Tables](/class201/Class07.md) 
 8. [Class 08 CSS Layout](/class201/Class08.md)
 9. [Class 09 Forms and JS events](/class201/Class09.md)
-10. [Class 10]()
+10. [Class 10 Debugging](/class201/Class10.md)
 11. [Class 11]()
 12. [Class 12]()
