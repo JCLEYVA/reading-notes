@@ -4,14 +4,14 @@
 Flash was the first way to render images on the web in the 2000s, this technology is obsolete and has been replaced by javascriot and HTML solutions like Audio and video elements.
 
 
-**2.Describe the use of the src and controls attributes in the <video> element.**
+**2.Describe the use of the src and controls attributes in the video element.**
 SRC contains a path to the video you want embed, Controls allow the user to control the content themselves from the website.
 
 
-**3. Why is it important to have fallback content inside the <video> element?**
+**3. Why is it important to have fallback content inside the video element?**
 Fallback content is set in case the users browser does not support the video element. For example a link will be used in case the content does not render, the user still has access to the content by other means.
 
-**4. Write a very short story where <audio> and <video> are characters:**
+**4. Write a very short story where audio and video are characters:**
 
 If Audio is Shaquel O'Neal and video is kobe bryant, one can work without the other but wont be as effective. The two exist seperatly but together create an immersive experience.
 
@@ -40,4 +40,4 @@ Sizes- Required for responsive images. Defines a set of media conditions and ind
 Srcset makes for an easier syntax because it allows for images to be supported on multiple display resolutions, and it allows th ebrowser to choose the appropriate size. If used without "sizes".
 
 
-##Things I would like to know more about.
+## Things I would like to know more about.
