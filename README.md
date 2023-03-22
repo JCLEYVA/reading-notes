@@ -37,3 +37,4 @@
 10. [Class 10 Debugging](/class201/Class10.md)
 11. [Class 11 Audio, Video, Images](/class201/Class11.md)
 12. [Class 12 Chart. JS, Canvas](/class201/Class12.md)
+13. [Class 13](/class201/Class13.md)
