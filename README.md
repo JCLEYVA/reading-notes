@@ -41,3 +41,22 @@
 14. [Class 14 Psychological safety](/class201/Class14.md)
 15. [Class 14B](/class201/Class014.md)
 16. [Class 15](/class201/Class15.md)
+
+
+### 301
+Prep. [Behavioral Questions ]()
+1. [Class 01 Introduction to React and Components]()
+2.[Class 02 State and Props]()
+3.[]()
+4.[]()
+5.[]()
+6.[]()
+7.[]()
+8.[]()
+9.[]()
+10.[]()
+11.[]()
+12.[]()
+13.[]()
+14.[]()
+15.[]()
