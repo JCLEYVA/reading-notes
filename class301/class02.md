@@ -20,4 +20,4 @@ componentWillUnmount
 **What does componentDidMount do?**
 The componentDidMount method is called after a component has been mounted in the DOM. It is used to perform any setup that requires interaction with the browser environment, such as fetching data from an external API or initializing third-party libraries. It is also a good place to add event listeners or start animations. The componentDidMount method is only called once during the lifecycle of a component.
 
-## Things I would like to know more about
+## Things I would like to know more about.
