@@ -48,7 +48,7 @@ Prep. [Behavioral Questions ]()
 
 1. [Class 01 Introduction to React and Components](/class301/class01.md)
 2. [Class 02 State and Props]()
-3. []()
+3. [Class 03 Passing functions as Props](/class301/class03.md)
 4. []()
 5. []()
 6. []()
