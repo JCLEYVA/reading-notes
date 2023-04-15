@@ -4,15 +4,13 @@
 
 ![Deployment](https://i.imgur.com/M7Zr2rc.jpeg)
 
-**Growth mindset**
-
- Hello, My name is Jeanette and I am an 8 year military veteren.⚓These past 8 years have been challenging for me and having a fixed mindset has made it harder for me to be succesful. About midway through my career, I adapted a growth mindset to allow myself to overcome some challeges that have plagued me since middle school. I put myself in a box with a fixed mindset and stunted my growth. Adapting a growth mindset allowed me to rank up faster and have the confidence to lead people throughtout deployments and work ups. It is believing that you can become better overtime if you put in the work and self reflect on the areas that need improvement, holding yourself accountable, and talking to yourself in a postive manner.
+This website is a collection of reading notes for software development coding courses ranging from 102 to 501 modules for Code Fellows. The notes are created using Markdown (MD) and provide a detailed summary of the important concepts covered in each course. The notes are structured in a way that makes it easy for readers to navigate and find the information they need. Whether you are a beginner or an experienced software developer, these reading notes will help you better understand the key concepts of each course and improve your coding skills. So, if you want to brush up on your coding skills or learn something new, this website is the perfect resource for you.
 
 [Github Profile](https://github.com/JCLEYVA)
 
 # Table of Contents
 
-### 102
+### Code 102 - Intro to Software Development
 
 1. [Class 01 Learning Markdown](https://jcleyva.github.io/reading-notes/class102/class1b)
 2. [Class 02 The Coders Computer](https://jcleyva.github.io/reading-notes/class102/class2)
@@ -23,7 +21,7 @@
 7. [Class 07 Programming with Javascript](https://jcleyva.github.io/reading-notes/class102/class07)
 8. [Class 08 Operators and Loops](https://jcleyva.github.io/reading-notes/class102/class08)
 
-### 201
+### Code 201 - Foundations of Software Development
 
 1. [Class 01 Welcome to Orientation](/class201/Class201.md)
 2. [Class 02 JS Dataypes and Conditional Logic](/class201/Class202.md)
@@ -43,7 +41,7 @@
 16. [Class 15](/class201/Class15.md)
 
 
-### 301
+### Code 301 - Intermediate Software Development
 Prep. [Behavioral Questions ]()
 
 1. [Class 01 Introduction to React and Components](/class301/class01.md)
@@ -55,9 +53,11 @@ Prep. [Behavioral Questions ]()
 7. []()
 8. []()
 9. []()
-10.[]()
-11.[]()
-12.[]()
-13.[]()
-14.[]()
-15.[]()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+15. []()
+
+### Code 401 - Advanced Software Development
